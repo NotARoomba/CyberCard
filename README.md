@@ -27,11 +27,10 @@ A Cyberpunk themed NFC hacker card!
 
 ## Key Features
 
-- NFC (Near Field Communication) capabilities
+- NFC capability
 - Cyberpunk-inspired design with Edgerunners artwork
 - Custom PCB layout with NFC antenna
 - Sleek card form factor
-- Made in Night City aesthetic
 
 ## Design
 

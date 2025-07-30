@@ -51,7 +51,7 @@ Designed in KiCad. Notable features:
 <img src="assets/schematic.png" alt="Schematic" width="500"/>
 <img src="assets/pcb_final.png" alt="PCB Layout" width="500"/>
 <img src="assets/jlcpcb.png" alt="PCB Layout" width="500"/>
-(I can provide some money if needed)
+(I can pay for most/all of shipping if needed)
 
 ## BOM
 

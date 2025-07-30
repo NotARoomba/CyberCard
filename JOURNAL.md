@@ -18,7 +18,7 @@ I wanted to make a cool hackercard before highway ends so I started up a new pro
 
 # July 30: Art and Design
 
-After wiring it up I went over to figma and created a new design to modify the artwork that I wanted to place. I ended up taking an image of David and Lucy on the moon from the Edgerunners series. I then added a cool wallpaper to the front along with the symbol on David's jacket. It was a pain to create masks and then find out that the images in svg black and white didn't look good so I had to create many revisions. After creating the images, I then imported them into Kicad and added them into the different layers, I wanted David's jacket to have the color of the copper so I added it to tha mask layer and the copper layer.
+After wiring it up I went over to figma and created a new design to modify the artwork that I wanted to place. I ended up taking an image of David and Lucy on the moon from the Edgerunners series. I then added a cool wallpaper to the front along with the symbol on David's jacket. It was a pain to create masks and then find out that the images in svg black and white didn't look good so I had to create many revisions. I also wanted some cool PCB/trace lines/design so I created some "traces" and "planes" in figma before exporting to Kicad. After creating the images, I then imported them into Kicad and added them into the different layers, I wanted David's jacket to have the color of the copper so I added it to tha mask layer and the copper layer.
 
 ![Figma Design Process](assets/figma.png)
 

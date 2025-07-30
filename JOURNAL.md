@@ -8,7 +8,7 @@ time_spent: ~5 Hours
 
 # July 29: Schematic and PCB Layout
 
-I wanted to make a col hackercard before highway ends so I started up a new project and followed a guide on making an NFC Card. I wired the components up and then sent them over to the PCB. I then placed them in the general positions before wiring them up.
+I wanted to make a cool hackercard before highway ends so I started up a new project and followed a guide on making an NFC Card. I followed the [guide](https://jams.hackclub.com/jam/hacker-card) and added the components from LCSC using a script I made. After importing the components, I wired them up and then sent them over to the PCB. In the PCB I wanted the strip to be on the side like a normal card and have the components as non visible as possible so I grouped them together (except for the led).
 
 ![Schematic Design](assets/schematic.png)
 
@@ -16,12 +16,14 @@ I wanted to make a col hackercard before highway ends so I started up a new proj
 
 **Time Spent:** 1 Hours
 
-# July 30: Art an Design
+# July 30: Art and Design
 
-After wiring it up I went over to figma and created a new design to modify the artwork that I wanted to place. I ended up taking an image of David and Lucy on the moon from the Edgerunners series. I then added a cool wallpaper to the front along with the symbol on David's jacket. It was a pain to creat masks and then find out that the images in svg black and white didn't look good so I had to create many revisions.
+After wiring it up I went over to figma and created a new design to modify the artwork that I wanted to place. I ended up taking an image of David and Lucy on the moon from the Edgerunners series. I then added a cool wallpaper to the front along with the symbol on David's jacket. It was a pain to create masks and then find out that the images in svg black and white didn't look good so I had to create many revisions. After creating the images, I then imported them into Kicad and added them into the different layers, I wanted David's jacket to have the color of the copper so I added it to tha mask layer and the copper layer.
 
 ![Figma Design Process](assets/figma.png)
 
-![CyberCard Logo](assets/logo.png)
+After that I added some text and then called it a day. This was the end result.
+
+![PCB Design](assets/pcb_final.png)
 
 **Time Spent:** 4 Hours
